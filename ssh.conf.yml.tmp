@@ -1,0 +1,3 @@
+ip: "{{ .Env.SSH_BUCARDO_IP }}"
+username: "{{ .Env.SSH_BUCARDO_USER }}"
+password: "{{ .Env.SSH_BUCARDO_PASS }}"
